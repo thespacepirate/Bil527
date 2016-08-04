@@ -79,7 +79,7 @@ getirecektir.
 
 **Adım 1: Varsayılan Olarak Gelen Şifreleri Değiştirin**
 
-![](media/image1.jpeg){width="6.3in" height="2.6479166666666667in"}
+![alt text](images/R_adim_1_1.JPG)
 
 Yeni kurulan bir cihazda, cihazın arayüzüne bağlanmanızı sağlayacak
 kullanıcı adı/şifre’yi asla varsayılan olarak bırakmamalısınız. İlk
@@ -92,7 +92,7 @@ Oluşturacağınız yönetim şifresi tabii ki kolay tahmin edilebilir
 olmamalıdır. Tercihen büyük-küçük harf, rakam ve işaretlerden oluşan en
 az 8 karakterli bir kombinasyon olmalıdır.
 
-![](media/image2.jpeg){width="6.3in" height="1.5340277777777778in"}
+![alt text](images/R_adim_1_2.JPG)
 
 **Adım 2: Firewall Ayarlarını Etkinleştirin**
 
@@ -102,7 +102,7 @@ ACL. Güvenlik duvarı seviyesi, bu altı alt işlevin ortak bir
 özelliğidir. Güvenlik duvarı seviyesi ayarını değiştirirseniz, ayar altı
 alt işlevin tümü için geçerli olur.
 
-![](media/image3.jpeg){width="6.293055555555555in" height="1.975in"}
+![alt text](images/R_adim_2.JPG)
 
 Güvenlik duvarının yedi seçeneği vardır: Devre dışı bırak, “Tümünü Bloke
 et, Yüksek, Orta, Düşük, Standart ve Özel”. Güvenlik duvarı fonksiyonunu
@@ -131,7 +131,7 @@ Bu çerçevede riskleri minimize etmek adına UPnP özelliğini devre dışı
 bırakıyoruz. İhtiyacımız olduğunda aktif hale getirmek zor bir işlem
 olmayacaktır.
 
-![](media/image5.jpeg){width="6.3in" height="1.9694444444444446in"}
+![alt text](images/R_adim_3.JPG)
 
 **Adım 4: Cihazınızın Firmware Versiyonunun Güncel Olduğundan Emin
 Olun**
@@ -142,7 +142,7 @@ firmware versiyonunu kendi web sitelerine yüklerler. Bazen bu
 güncellemeler, önemli güvenlik açıkları için yamalar içerirler. Bu
 sebeple güncel firmware kullanmak hayati öneme sahip olabiliyor.
 
-![](media/image6.jpeg){width="6.3in" height="1.573611111111111in"}
+![alt text](images/R_adim_4.JPG)
 
 Gün geçtikçe yenilenen cihazlarda güncelleme işlemi daha da kolay hale
 geliyor.
@@ -171,7 +171,7 @@ alarak ağınıza dahil olma şansına sahip olacaktır.
 Bu gibi sebeplerden ötürü havuzu ihtiyaca uygun genişlikte tutmak, sizin
 için faydalı olacaktır.
 
-![](media/image7.jpeg){width="6.3in" height="3.376388888888889in"}
+![alt text](images/R_adim_5.JPG)
 
 **Adım 6: Mümkün İse Logları Biryerde Tutun**
 
@@ -182,7 +182,7 @@ Birilerinin ağınıza sızmaya çalışıp çalışmadığını veya bilginiz
 haricinde birilerinin yönlendiriciye erişip erişmediğini anlamanıza
 yardımcı olabilir.
 
-![](media/image8.jpeg){width="6.3in" height="1.636111111111111in"}
+![alt text](images/R_adim_6.JPG)
 
 Eğer kablosuz ağ kullanıyorsanız işimiz bitmedi. Kablosuz ağınızı daha
 güvenli hale getirmek için bir takım ekstra sıkılaştırmalar
@@ -234,7 +234,7 @@ ağınıza sızmaya çalışmasını engellemek için faydalı bir yol olabilir.
 Bu işlemin sıkıcı tarafı ise kablosuz ağa ilk bağlandığınızda SSID'nizi
 elle girmenizin gerekmesi.
 
-![](media/image9.jpeg){width="6.3in" height="2.741337489063867in"}
+![alt text](images/W_Hide SSID.JPG)
 
 **Adım 4: Şifreleme İçin WPA2'yi Seçin**
 
@@ -249,7 +249,7 @@ bu metodu destekler.
 
 Tavsiyemiz, şifreleme metodu olarak kesinlikle WPA2 kullanılmasıdır.
 
-![](media/image10.jpeg){width="6.3in" height="2.741337489063867in"}
+![alt text](images/W_WPA2.JPG)
 
 **Adım 5: Misafir Ağını Devre Dışı Bırakın**
 
@@ -263,7 +263,7 @@ ile daha güvenli hale de getirilebilir.
 Ancak ağınızın güvenliğe önem veriyorsanız, tavsiyemiz misafir ağının
 kullanılmaması yönünde.
 
-![](media/image11.jpeg){width="4.59375in" height="3.099971566054243in"}
+![alt text](images/W_guest_network.jpg)
 
 **Adım 6: Mac Adres Filtrelemeyi Aktif Edin**
 
@@ -288,7 +288,7 @@ Filtre oluşturmak için öncelikle filtreye dahil edeceğiniz cihazların
 MAC adreslerine sahip olmanız gerekecektir. Tabi DHCP listesinden de bu
 bilgiye ulaşmanız mümkün.
 
-![](media/image12.jpeg){width="6.3in" height="1.6236111111111111in"}
+![alt text](images/W_mac_filtering.JPG)
 
 **Adım 7: WPS'i Devre Dışı Bırakın. Şayet Zorundaysanız Dikkatli
 Kullanın**
@@ -301,7 +301,7 @@ Bazı kablosuz güçlendiriciler wps olmadan birbirleriyle bağlantı
 kuramayabiliyorlar. Bunun dışındaki durumlarda wps kullanılmasını
 tavsiye etmiyoruz.
 
-![](media/image13.jpeg){width="6.3in" height="2.741337489063867in"}
+![alt text](images/W_WPS.JPG)
 
 **KAYNAKLAR**
 
